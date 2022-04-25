@@ -1,0 +1,9 @@
+{
+	"name": "Datafactortytest",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5e00c626-74ad-4132-86c8-572e545effc1",
+		"tenantId": "d8ed2066-0bdf-4c97-b307-f7dd4311e296"
+	}
+}
